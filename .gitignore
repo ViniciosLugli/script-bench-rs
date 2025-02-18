@@ -1,3 +1,4 @@
 /target
 /.vscode
 /scripts/sort_userdata.wasm
+Cargo.lock
